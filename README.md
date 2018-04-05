@@ -73,34 +73,34 @@ It's convention for the JSON response object to be referred to as `response` or 
 1. Where was Margaery Tyrell born?
 
 - URL: `http://anapioficeandfire.com/api/characters/16`
-- Accessed: `your answer here`
+- Accessed: `"In 283 AC, at Highgarden"`
 
 2. What region is House Targaryen in?
 
 - URL: `http://www.anapioficeandfire.com/api/houses/378`
-- Accessed: `your answer here`
+- Accessed: `"The Crownlands"`
 
 3. What's the coat of arms of House Lannister?
 
 - URL: `http://www.anapioficeandfire.com/api/houses/229`
-- Accessed: `Your answer here`
+- Accessed: `"A gold lion, on a crimson field(Gules, a lion or)"`
 
 4. What is the second seat of House Baratheon?
 
 - URL: `http://www.anapioficeandfire.com/api/houses/17`
-- Accessed: `Your answer here`
+- Accessed: `"Dragonstone (House Baratheon of Dragonstone)"`
 
 5. What is Robert Baratheon's second alias?
 
 - URL: `http://www.anapioficeandfire.com/api/characters/901`
-- Accessed: `Your answer here`
+- Accessed: `"Demon of the Trident"`
 
 6. What's the name of the founder of House Stark? (You may have to go through multiple Postman requests!)
 
 - URL: `http://www.anapioficeandfire.com/api/houses/362`
-- Accessed: `your answer here`, [next step here], `final step answer here`
+- Accessed: `https://anapioficeandfire.com/api/characters/209`, [next step here], `"Brandon Stark"`
 
 7. What are the titles of Catelyn Stark's three POV books?
 
 - URL: `http://www.anapioficeandfire.com/api/characters/232`
-- Accessed: `your answer here` (may also have multiple parts)
+- Accessed: `"A Game of Thrones, A Clash of Kings, A Storm of Swords"` (may also have multiple parts)
